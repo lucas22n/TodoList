@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  background-color: darkslategray;
+}
+
+#button-addon1{
+  background-color: antiquewhite;
+}
+
+.containerinput{
+  width: 50%;
+  margin: auto;
+}
+
+.form-control{
+  width: 30%;
+}
+
+#h1todo{
+  color: antiquewhite;
+  background-color: darkslategray ;
+}
+
+html,body{
+  background-color: darkslategray;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+margin-top: 3%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
